@@ -1,0 +1,103 @@
+/*body {
+    background-color: rgba(95, 255, 47, 0.842);
+    color: rgb(158, 105, 255);
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+*/
+
+html {
+    background-color: red;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+body {
+    background-color: #042f4b;
+    margin: 0;
+}
+
+h1 {
+    margin: 30px;
+    font-family: "Lobster", cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4.5rem;
+    color: #4ecca3;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+    color: #4ecca3;
+    font-family: "Indie Flower", cursive;
+}
+
+img {
+    width: 50%;
+}
+
+.dice {
+    float: right;
+    width: 33.33%;
+    padding: 75px;
+}
+
+.bottom {
+    padding-top: 30px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: tomato;
+    border-radius: 20px;
+    border: solid;
+    width: 200px;
+    font-weight: 200px;
+    font-style: 0px;
+    font-size: 30px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+
+/* .butn {
+        background: #4ecca3;
+        font-family: "Indie Flower", cursive;
+        border-radius: 20px;
+        color: #ffff;
+        font-size: 30px;
+        padding: 16px 25px 16px 25px;
+        text-decoration: none;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    
+    */
+
+footer {
+    text-align: center;
+    text-decoration: underline;
+    background-color: aqua;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.butn:hover {
+    background: #232931;
+    text-decoration: none;
+}
