@@ -9,7 +9,7 @@ function editNames() {
     document.querySelector("p.Player1").innerHTML = player1;
     document.querySelector("p.Player2").innerHTML = player2;
 }
-
+/*
 // Function to roll the dice
 function rollTheDice() {
     setTimeout(function() {
@@ -29,4 +29,4 @@ function rollTheDice() {
                 } else {
                     document.querySelector("h1").innerHTML = (player1 + " WINS!");
                 }
-            }
+            }*/
