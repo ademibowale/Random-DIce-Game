@@ -29,7 +29,7 @@ Setup:
 
 To get this project in your local machine, follow this steps.
    - Open terminal.
-   - Clone the repository https://github.com/ademibowale/my-portfolio.git.
+   - Clone the repository https://github.com/ademibowale/Random-DIce-Game
    - Cd in the project portfolio
    - Run the project in your browser.
 
