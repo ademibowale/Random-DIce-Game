@@ -1,11 +1,11 @@
 MOBILE AND DESKTOP APP VERSION
 Project Name:
 
-MY PORTFOLIO PROJECT
+Random Dice Game
 
 Project Description:
 
-- This is my portfolio project two section such as toolbar and the headline  section the project contain both mobile and desktop version .
+- This is my first javascript project ,A random dice game for 1 to 6 dice it contains two players and  enable users to edit players name .
 
 Built With..
 
@@ -16,7 +16,7 @@ Built With..
 
    LIVE DEMO:
    
-   [Live Demo Link](https://ademibowale.github.io/https---github.com-ademibowale-random-dice-game/)
+   [Live Demo Link](https://ademibowale.github.io/Random-DIce-Game/)
 
 Getting Started:
    - To get a local copy up and running follow this simple example step.
